@@ -1,4 +1,4 @@
-const CACHE_NAME = 'alpineTimingApp-cache-v1';
+const CACHE_NAME = 'alpineTimingDevice-cache-v1';
 const ASSETS = [
   './manifest.json',
   './assets/images/iconSmall.svg',

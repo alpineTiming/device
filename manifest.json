@@ -1,6 +1,6 @@
 {
-  "name": "alpineTimingApp",
-  "short_name": "alpineTiming",
+  "name": "alpineTimingDevice",
+  "short_name": "alpineTiming (Device)",
   "start_url": "./app.html",
   "lang": "en-GB",
   "display": "standalone",
