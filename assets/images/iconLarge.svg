@@ -1,0 +1,14 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <title>alpineTiming PWA icon 512x512</title>
+  <rect width="512" height="512" rx="100" fill="#0B1F3A"/>
+  <polygon points="256,60 80,380 432,380" fill="#1A3A5C"/>
+  <polygon points="256,60 256,380 432,380" fill="#22507A"/>
+  <polygon points="256,60 206,185 306,185" fill="#FFFFFF" opacity="0.95"/>
+  <line x1="108" y1="268" x2="404" y2="268" stroke="#4A9FD4" stroke-width="14" stroke-linecap="round"/>
+  <line x1="138" y1="248" x2="138" y2="380" stroke="#FFFFFF" stroke-width="11" stroke-linecap="round"/>
+  <line x1="374" y1="248" x2="374" y2="380" stroke="#FFFFFF" stroke-width="11" stroke-linecap="round"/>
+  <rect x="138" y="248" width="38" height="24" rx="5" fill="#4A9FD4"/>
+  <rect x="336" y="248" width="38" height="24" rx="5" fill="#4A9FD4"/>
+  <circle cx="138" cy="268" r="10" fill="#4A9FD4"/>
+  <circle cx="374" cy="268" r="10" fill="#4A9FD4"/>
+</svg>
