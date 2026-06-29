@@ -1,4 +1,4 @@
-const CACHE_NAME = 'alpineTimingDevice-cache-v1';
+const CACHE_NAME = 'alpineGate-cache-v1';
 const ASSETS = [
   './manifest.json',
   './assets/images/iconSmall.svg',
@@ -34,6 +34,6 @@ self.addEventListener('fetch', event => {
           return response;
         });
       });
-    }).catch(() => caches.match('./app.html'))
+    }).catch(() => caches.match('./gate.html'))
   );
 });

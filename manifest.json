@@ -1,7 +1,7 @@
 {
-  "name": "alpineTimingDevice",
-  "short_name": "alpineTiming (Device)",
-  "start_url": "./app.html",
+  "name": "alpineGate",
+  "short_name": "alpineGate",
+  "start_url": "./gate.html",
   "lang": "en-GB",
   "display": "fullscreen",
   "orientation": "portrait",
